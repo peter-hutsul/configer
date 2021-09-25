@@ -1,0 +1,36 @@
+{
+  "name": "goel",
+  "version": "1.0.0",
+  "description": "It is lightweight, dependency-free library for object parameters displaying, controlling & managing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter-hutsul/goel.git"
+  },
+  "keywords": [
+    "json",
+    "html",
+    "ui",
+    "gui",
+    "controll",
+    "panel",
+    "pane",
+    "kit",
+    "component",
+    "input",
+    "range",
+    "number",
+    "checkbox",
+    "color",
+    "picker"
+  ],
+  "author": "Peter Hutsul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peter-hutsul/goel/issues"
+  },
+  "homepage": "https://github.com/peter-hutsul/goel#readme"
+}

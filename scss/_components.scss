@@ -1,0 +1,21 @@
+.dat-indicator {
+    margin: 0;
+    border: 1px solid #c5c5c5;
+    padding: 0px 3px;
+    background-color: #ffffff;
+    font-family: monospace;
+    -moz-appearance: textfield;
+    margin-left: 7px;
+}
+
+.dat-indicator::-webkit-outer-spin-button,
+.dat-indicator::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.dat-indicator:focus {
+    border-color: rgba(153, 221, 245, 0.84);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(104, 202, 239, 0.6);
+    outline: 0 none;
+}
