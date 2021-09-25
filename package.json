@@ -1,8 +1,12 @@
 {
-  "name": "goel",
-  "version": "1.0.0",
+  "name": "goel.js",
+  "version": "1.0.1",
   "description": "It is lightweight, dependency-free library for object parameters displaying, controlling & managing.",
   "main": "index.js",
+  "directories": {
+    "src": "src",
+    "scss": "scss"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

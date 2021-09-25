@@ -6,4 +6,4 @@
 
 import './scss/index.scss';
 
-export { default } from './src/dat';
+export { default } from './src/goel';

@@ -39,10 +39,10 @@ import GUI from './GUI';
 
 function log( str ) 
 {
-    console.log("%c[dat.GUI] %s", "background:#CB314D;color:white", str)
+    console.log("%c[goel.js] %s", "background:#CB314D;color:white", str)
 }
 
-var dat = 
+var goel = 
 {
 	GUI: GUI,
 
@@ -190,6 +190,6 @@ var dat =
 //     return title;
 // }
 
-window.dat = dat;
+window.goel = goel;
 
-export default dat;
+export default goel;
