@@ -6,4 +6,4 @@
 
 import './scss/index.scss';
 
-export { default } from './src/goel';
+export { default } from './src/donfig';
