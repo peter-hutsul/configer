@@ -15,7 +15,7 @@ import Parse from './Parse';
 // const Description = require('./Description');
 // const Snapshot = require('./Snapshot');
 
-// new donfig.GUI('config', {
+// new configer.GUI('config', {
 //     config: CUSTOM_CONFIG,
 //     parent: 'custom_config'
 // })

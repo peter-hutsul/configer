@@ -1,6 +1,6 @@
 {
-  "name": "donfig",
-  "version": "1.0.1",
+  "name": "configer.js",
+  "version": "1.0.3",
   "description": "It is lightweight, dependency-free library for object parameters displaying, controlling & managing.",
   "main": "index.js",
   "directories": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peter-hutsul/donfig.git"
+    "url": "git+https://github.com/peter-hutsul/configer.git"
   },
   "keywords": [
     "json",
@@ -34,8 +34,8 @@
   "author": "Peter Hutsul",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/peter-hutsul/donfig/issues"
+    "url": "https://github.com/peter-hutsul/configer/issues"
   },
-  "homepage": "https://github.com/peter-hutsul/donfig#readme",
+  "homepage": "https://github.com/peter-hutsul/configer#readme",
   "dependencies": {}
 }

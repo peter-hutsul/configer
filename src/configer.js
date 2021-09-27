@@ -39,10 +39,10 @@ import GUI from './GUI';
 
 function log( str ) 
 {
-    console.log("%c[donfig] %s", "background:#CB314D;color:white", str)
+    console.log("%c[configer] %s", "background:#CB314D;color:white", str)
 }
 
-var donfig = 
+var configer = 
 {
 	GUI: GUI,
 
@@ -190,6 +190,6 @@ var donfig =
 //     return title;
 // }
 
-window.donfig = donfig;
+window.configer = configer;
 
-export default donfig;
+export default configer;
